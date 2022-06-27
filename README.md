@@ -1,5 +1,5 @@
 NOTE:
-- The software consists in two main folders. They have been zipped. To run the programs download and unzip the folders, and then refers to the descriptions below on how to run each analysis.
+- The software consists in two main folders. They have been zipped. To run the programs download and unzip the folders, and then refers to the descriptions below on how to run each analysis. Each program can run separately.
 - A presentation, in both PowerPoint and pdf format, is saved in the same repository in order to provide the theoretical background.
 
 
